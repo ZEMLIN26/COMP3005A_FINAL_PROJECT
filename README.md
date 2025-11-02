@@ -62,4 +62,6 @@ Trigger: check overlapping booking/room capacity/trainer availability
 
 # Trigger: update Availabilites after an insertion to Individual_Training_Sessions
 # Trigger: update Availabilites after an insertion to Group_Fitness_Classes
+# Youtube Video Link: https://youtu.be/G7ak72xrfGA
+# Github Link: https://github.com/ZEMLIN26/COMP3005A_FINAL_PROJECT.git
 
